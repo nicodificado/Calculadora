@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 10px 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    background-color: lightseagreen;
+    color: darkgreen;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50px;
+}
+
